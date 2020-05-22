@@ -1,0 +1,42 @@
+.select-dropdown {
+    display: inline-block;
+    width: 100%;
+    border: 2px solid black;
+    background-color: #fff;
+    position: relative;
+    margin: 20px 0;
+}
+
+.select-dropdown .title {
+    width: 100%;
+    text-align: center;
+    background-color: #B90EE4;
+    color: #fff;
+    padding: 20px 0;
+    height: 30px;
+}
+
+.select-dropdown h3 {
+    margin: 0;
+}
+
+.select-dropdown p {
+    margin: 0;
+    max-height: 0;
+    overflow: hidden;
+    width: 100%;
+    top: 70px;
+    right: 0;
+    left: 0;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid black;
+    transition: max-height .28s;
+}
+
+.select-dropdown p.visible {
+    max-height: 500px;
+    
+    overflow: visible;
+    z-index: inherit;
+}
