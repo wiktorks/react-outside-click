@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-outside-click1/static/css/main.fe1daaf9.chunk.css",
-    "main.js": "/react-outside-click1/static/js/main.6885aafb.chunk.js",
-    "main.js.map": "/react-outside-click1/static/js/main.6885aafb.chunk.js.map",
-    "runtime-main.js": "/react-outside-click1/static/js/runtime-main.f971d8e7.js",
-    "runtime-main.js.map": "/react-outside-click1/static/js/runtime-main.f971d8e7.js.map",
-    "static/js/2.2d20d8d4.chunk.js": "/react-outside-click1/static/js/2.2d20d8d4.chunk.js",
-    "static/js/2.2d20d8d4.chunk.js.map": "/react-outside-click1/static/js/2.2d20d8d4.chunk.js.map",
-    "index.html": "/react-outside-click1/index.html",
-    "precache-manifest.3ea8d3a7db37ab9289edecd7bc63acc4.js": "/react-outside-click1/precache-manifest.3ea8d3a7db37ab9289edecd7bc63acc4.js",
-    "service-worker.js": "/react-outside-click1/service-worker.js",
-    "static/css/main.fe1daaf9.chunk.css.map": "/react-outside-click1/static/css/main.fe1daaf9.chunk.css.map",
-    "static/js/2.2d20d8d4.chunk.js.LICENSE.txt": "/react-outside-click1/static/js/2.2d20d8d4.chunk.js.LICENSE.txt"
+    "main.css": "/react-outside-click/static/css/main.fe1daaf9.chunk.css",
+    "main.js": "/react-outside-click/static/js/main.44d44374.chunk.js",
+    "main.js.map": "/react-outside-click/static/js/main.44d44374.chunk.js.map",
+    "runtime-main.js": "/react-outside-click/static/js/runtime-main.04c23dbf.js",
+    "runtime-main.js.map": "/react-outside-click/static/js/runtime-main.04c23dbf.js.map",
+    "static/js/2.2d20d8d4.chunk.js": "/react-outside-click/static/js/2.2d20d8d4.chunk.js",
+    "static/js/2.2d20d8d4.chunk.js.map": "/react-outside-click/static/js/2.2d20d8d4.chunk.js.map",
+    "index.html": "/react-outside-click/index.html",
+    "precache-manifest.41c1a8a4c2f1ff1588afe8ab0d18f155.js": "/react-outside-click/precache-manifest.41c1a8a4c2f1ff1588afe8ab0d18f155.js",
+    "service-worker.js": "/react-outside-click/service-worker.js",
+    "static/css/main.fe1daaf9.chunk.css.map": "/react-outside-click/static/css/main.fe1daaf9.chunk.css.map",
+    "static/js/2.2d20d8d4.chunk.js.LICENSE.txt": "/react-outside-click/static/js/2.2d20d8d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f971d8e7.js",
+    "static/js/runtime-main.04c23dbf.js",
     "static/js/2.2d20d8d4.chunk.js",
     "static/css/main.fe1daaf9.chunk.css",
-    "static/js/main.6885aafb.chunk.js"
+    "static/js/main.44d44374.chunk.js"
   ]
 }
