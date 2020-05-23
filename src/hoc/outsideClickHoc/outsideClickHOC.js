@@ -40,11 +40,11 @@ const outsideClickHOC = (Dropdown) => class extends Component {
         return (
             <>
                 <div
-                    className={this.state.coverClass}
+                    className={`${this.state.coverClass} cover-div`}
                     onClick={this.onClickOutside}
                 ></div>
                 <div
-                    className={this.state.wrapperClass}
+                    className={`${this.state.wrapperClass} container`}
                     style={{ display: "inline-block", width: '30%' }}
                     onClick={this.onStartListeningClickOutside}
                 >

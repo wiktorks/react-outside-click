@@ -4,8 +4,7 @@ import styles from './SelectDropdown.module.css';
 const SelectDropdown = React.forwardRef((props, ref) => {
     const [isDisplayed, toggleVisibility] = useState(false);
 
-    const handleDisplay = (event) => {
-        console.log(event.target);
+    const handleDisplay = () => {
         if(!props.waitingOnClick) {
             toggleVisibility(!isDisplayed);
         }
